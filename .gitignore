@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Envs and Secrets
+*.env
+.talismanrc
